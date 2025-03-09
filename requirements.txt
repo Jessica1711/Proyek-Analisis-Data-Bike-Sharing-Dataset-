@@ -16,6 +16,7 @@ array_record==0.6.0
 arviz==0.20.0
 astropy==7.0.1
 astropy-iers-data==0.2025.3.3.0.34.45
+asttokens==3.0.0
 astunparse==1.6.3
 atpublic==4.1.0
 attrs==25.1.0
@@ -89,6 +90,7 @@ distro==1.9.0
 dlib==19.24.2
 dm-tree==0.1.9
 docker-pycreds==0.4.0
+docopt==0.6.2
 docstring_parser==0.16
 docutils==0.21.2
 dopamine_rl==4.1.2
@@ -103,6 +105,7 @@ entrypoints==0.4
 et_xmlfile==2.0.0
 etils==1.12.0
 etuples==0.3.9
+executing==2.2.0
 Farama-Notifications==0.0.4
 fastai==2.7.18
 fastcore==1.7.29
@@ -218,7 +221,7 @@ ipyfilechooser==0.6.0
 ipykernel==6.17.1
 ipyleaflet==0.19.2
 ipyparallel==8.8.0
-ipython==7.34.0
+ipython==8.12.3
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
 ipytree==0.2.2
@@ -228,6 +231,7 @@ jax==0.4.33
 jax-cuda12-pjrt==0.4.33
 jax-cuda12-plugin==0.4.33
 jaxlib==0.4.33
+jedi==0.19.2
 jeepney==0.7.1
 jellyfish==1.1.0
 jieba==0.42.1
@@ -373,6 +377,7 @@ peft==0.14.0
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==11.1.0
+pipreqs==0.5.0
 platformdirs==4.3.6
 plotly==5.24.1
 plotnine==0.14.5
@@ -395,6 +400,7 @@ protobuf==4.25.6
 psutil==5.9.5
 psycopg2==2.9.10
 ptyprocess==0.7.0
+pure_eval==0.2.3
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
 pyarrow==18.1.0
@@ -506,6 +512,7 @@ SQLAlchemy==2.0.38
 sqlglot==25.6.1
 sqlparse==0.5.3
 srsly==2.5.1
+stack-data==0.6.3
 stanio==0.5.1
 statsmodels==0.14.4
 stringzilla==3.12.2
@@ -586,6 +593,7 @@ xarray-einstats==0.8.0
 xgboost==2.1.4
 xlrd==2.0.1
 xyzservices==2025.1.0
+yarg==0.1.9
 yarl==1.18.3
 yellowbrick==1.5
 yfinance==0.2.54
